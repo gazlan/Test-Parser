@@ -1,0 +1,8 @@
+-*-   Test Generator *  Copyright (c) Gazlan 2013   -*-
+
+Markup Quiz Text Test Generator
+
+Usage: genertor.exe [> Test.txt]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
